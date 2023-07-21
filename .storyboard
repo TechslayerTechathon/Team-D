@@ -1,0 +1,63 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM__b25b648a106f4a2b808c07da64a9249f",
+                    "actionSequenceId": "AS_Button_d34b1b6e53ac472081980e1f7c4e5bd3",
+                    "beautifiedPath": "LOGIN > submitlogin > onClick",
+                    "evt": "ide_onClick",
+                    "from": "bfa5a790b2bb48d68590f5f405d23b66",
+                    "isPSP": false,
+                    "points": [
+                        95.6,
+                        364.045263671875,
+                        95.6,
+                        374.045263671875,
+                        95.6,
+                        374.045263671875,
+                        -12,
+                        374.045263671875,
+                        -12,
+                        1028,
+                        95.6,
+                        1028,
+                        95.6,
+                        1214.845263671875,
+                        95.6,
+                        1224.845263671875
+                    ],
+                    "to": "a2c93a6d7f91438ab61502a886b28f87",
+                    "widgetKUID": "jae01ececda84a20b75200c7aba03e42"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "bfa5a790b2bb48d68590f5f405d23b66",
+                    "formName": "LOGIN",
+                    "isStartupForm": true,
+                    "key": "bfa5a790b2bb48d68590f5f405d23b66",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": "/assets/secondPay/forms/mobile/LOGIN.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "bfde0ccfd7af4c3b82fcc88a920381de",
+                    "formName": "Register",
+                    "isStartupForm": false,
+                    "key": "bfde0ccfd7af4c3b82fcc88a920381de",
+                    "loc": "8 624.845263671875",
+                    "thumbnailURL": null
+                },
+                {
+                    "formKUID": "a2c93a6d7f91438ab61502a886b28f87",
+                    "formName": "Dashboard",
+                    "isStartupForm": false,
+                    "key": "a2c93a6d7f91438ab61502a886b28f87",
+                    "loc": "8 1224.845263671875",
+                    "thumbnailURL": null
+                }
+            ]
+        }
+    }
+}
