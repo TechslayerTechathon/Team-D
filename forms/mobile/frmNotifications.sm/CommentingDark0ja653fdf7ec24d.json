@@ -25,7 +25,7 @@
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "97dp"
+        "value": "215dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "CommentingDark",
+    "id": "CommentingDark0ja653fdf7ec24d",
     "info": null,
     "ipad": {
         "psp": {
@@ -54,7 +54,7 @@
         }
     },
     "isvisible": true,
-    "kuid": "becdc46f487e4e60b117f71961cea7cb",
+    "kuid": "c49c4a730d084034a54a0441f6eb5bbe",
     "masterType": 1,
     "name": "kony.ui.Label",
     "parent": "flxContainerscroll",

@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "47dp"
+        "value": "10dp"
     },
     "_margin_": [
         0,
@@ -22,10 +22,10 @@
         0
     ],
     "_skin_": "s8cdcc90e1ba42929bb919beacf32867",
-    "_text_": "",
+    "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "97dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "ref",
@@ -39,6 +39,7 @@
         }
     },
     "canUpdateUI": true,
+    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
     "id": "CommentingDark",
@@ -54,11 +55,11 @@
         }
     },
     "isvisible": true,
-    "kuid": "becdc46f487e4e60b117f71961cea7cb",
+    "kuid": "a3b6a7b3b7de421fa30f9b32a8fa744f",
     "masterType": 1,
     "name": "kony.ui.Label",
-    "parent": "flxContainerscroll",
-    "pf": "frmNotifications",
+    "parent": "segNotification",
+    "pf": "Temp0b339099a310a4f",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",
