@@ -1,21 +1,14 @@
 {
-    "AS_Button_d34b1b6e53ac472081980e1f7c4e5bd3": {
-        "id": "AS_Button_d34b1b6e53ac472081980e1f7c4e5bd3",
+    "AS_Button_b70541bd29ae442f9862dddea5fe861e": {
+        "id": "AS_Button_b70541bd29ae442f9862dddea5fe861e",
         "type": "ACTION_SEQUENCE",
-        "name": "submitlogin",
         "params": [{
             "datatype": "collection",
             "name": "eventobject"
         }],
-        "contextObj": {
-            "name": "frmLOGIN",
-            "type": "forms",
-            "platform": null,
-            "KUID": "bfa5a790b2bb48d68590f5f405d23b66"
-        },
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM__b25b648a106f4a2b808c07da64a9249f",
+            "id": "NAVIGATE_TO_FORM__ide_onClick_je54eb3fec434c33973583cca5f44985",
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmDashboard",
             "formKUID": "a2c93a6d7f91438ab61502a886b28f87",

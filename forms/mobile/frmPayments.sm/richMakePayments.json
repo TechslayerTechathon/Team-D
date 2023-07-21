@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s161c84a51e249ab889f94685a3d458a",
+    "_text_": "Make payments",
+    "_top_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "52.96%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "richMakePayments",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ccffb2c54eaf4c2ebde6041a27839b8d",
+    "linkskin": "s9d34c1b58054901bb16f9f83889c557",
+    "name": "kony.ui.RichText",
+    "parent": "flxContainerPayments",
+    "pf": "frmPayments",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

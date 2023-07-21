@@ -1,24 +1,23 @@
 {
-    "AS_Button_d34b1b6e53ac472081980e1f7c4e5bd3": {
-        "id": "AS_Button_d34b1b6e53ac472081980e1f7c4e5bd3",
+    "AS_Segment_d0fa2045956d485cbb66780c70d63ce4": {
+        "id": "AS_Segment_d0fa2045956d485cbb66780c70d63ce4",
         "type": "ACTION_SEQUENCE",
-        "name": "submitlogin",
         "params": [{
             "datatype": "collection",
             "name": "eventobject"
         }],
         "contextObj": {
-            "name": "frmLOGIN",
+            "name": "frmNotifications",
             "type": "forms",
             "platform": null,
-            "KUID": "bfa5a790b2bb48d68590f5f405d23b66"
+            "KUID": "e649ea7c60a6495aa58d6e239abe9b3b"
         },
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM__b25b648a106f4a2b808c07da64a9249f",
+            "id": "NAVIGATE_TO_FORM__df62364474734d5387fedbe468cc3ff2",
             "type": "NAVIGATE_TO_FORM",
-            "formId": "frmDashboard",
-            "formKUID": "a2c93a6d7f91438ab61502a886b28f87",
+            "formId": "frmRejectAccept",
+            "formKUID": "i99b9cb86a7d4758a07408fabe6944aa",
             "projectName": "TeamD",
             "mappings": {},
             "mappingsOrder": [],
