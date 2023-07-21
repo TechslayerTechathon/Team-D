@@ -3,11 +3,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "40dp"
+        "value": "60dp"
     },
     "_left_": {
         "type": "string",
-        "value": "60dp"
+        "value": "28dp"
     },
     "_margin_": [
         0,
@@ -21,16 +21,16 @@
         0,
         0
     ],
-    "_placeholder_": "Enter  Username",
-    "_skin_": "s30ea240fa334253bed3a3f13fcb7ad9",
+    "_placeholder_": "",
+    "_skin_": "s2ca6c5d15e84da3a76d7324d0e95c77",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "83dp"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "372dp"
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -42,16 +42,16 @@
     "containerweight": 100,
     "contentalignment": 4,
     "focusskin": "s57005a496454da9ba0f9750be1f0f01",
-    "id": "username",
+    "id": "txtNotify",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "d9de5954b11b47968d712c45edaea869",
+    "kuid": "a231bdc5572f442bb91e447866e6ef2e",
     "mode": "A",
     "name": "kony.ui.TextBox2",
-    "parent": "FlexGroup0hc5da7dbe2a647",
-    "pf": "LOGIN",
+    "parent": "flxContainerscroll",
+    "pf": "frmNotifications",
     "placeholderskin": "s898f3b78cf44c74b6b842f1754fb632",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

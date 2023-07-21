@@ -37,7 +37,7 @@
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "RegisterController"
+            "name": "frmRejectAcceptController"
         }
     },
     "currentLocale": "default",
@@ -47,7 +47,7 @@
     "device": "iPhone13ProMax",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Register",
+    "id": "frmRejectAccept",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -65,7 +65,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "ceceb63050894f0295fa11bc448a960d",
+                "kuid": "i5273e93b0c74cb4b260144573ef7141",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -76,7 +76,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "fa2a70c1de724e6e8f7b2ea12aaede7e",
+                        "kuid": "i9ddb522fb9e48789d002b0714e27439",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -93,7 +93,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "bfde0ccfd7af4c3b82fcc88a920381de",
+    "kuid": "i99b9cb86a7d4758a07408fabe6944aa",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,

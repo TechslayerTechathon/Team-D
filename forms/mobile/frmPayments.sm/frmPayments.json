@@ -32,14 +32,12 @@
         }
     },
     "canUpdateUI": true,
-    "children": [
-        "Container"
-    ],
+    "children": [],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "LOGINController"
+            "name": "frmPaymentsController"
         }
     },
     "currentLocale": "default",
@@ -49,7 +47,7 @@
     "device": "iPhone13ProMax",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "LOGIN",
+    "id": "frmPayments",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -67,7 +65,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "dbd478d8e42b49ebab534e9dc6b071b3",
+                "kuid": "e760780ca737488380452289bf9ce2d6",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -78,7 +76,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "fece93e1f83448d49f472c15c84e1fcc",
+                        "kuid": "e691c0f5e82d4ab4b538fd0f2dceacbb",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -95,7 +93,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "bfa5a790b2bb48d68590f5f405d23b66",
+    "kuid": "cc68343526ca4b6ea1d20c65af635407",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,

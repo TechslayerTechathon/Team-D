@@ -34,12 +34,20 @@
             ],
             "nodeDataArray": [
                 {
+                    "formKUID": "a2c93a6d7f91438ab61502a886b28f87",
+                    "formName": "Dashboard",
+                    "isStartupForm": false,
+                    "key": "a2c93a6d7f91438ab61502a886b28f87",
+                    "loc": "8 1224.845263671875",
+                    "thumbnailURL": null
+                },
+                {
                     "formKUID": "bfa5a790b2bb48d68590f5f405d23b66",
                     "formName": "LOGIN",
                     "isStartupForm": true,
                     "key": "bfa5a790b2bb48d68590f5f405d23b66",
                     "loc": "8 24.845263671875003",
-                    "thumbnailURL": "/assets/secondPay/forms/mobile/LOGIN.sm/.thumbs/default.jpeg"
+                    "thumbnailURL": null
                 },
                 {
                     "formKUID": "bfde0ccfd7af4c3b82fcc88a920381de",
@@ -47,14 +55,6 @@
                     "isStartupForm": false,
                     "key": "bfde0ccfd7af4c3b82fcc88a920381de",
                     "loc": "8 624.845263671875",
-                    "thumbnailURL": null
-                },
-                {
-                    "formKUID": "a2c93a6d7f91438ab61502a886b28f87",
-                    "formName": "Dashboard",
-                    "isStartupForm": false,
-                    "key": "a2c93a6d7f91438ab61502a886b28f87",
-                    "loc": "8 1224.845263671875",
                     "thumbnailURL": null
                 }
             ]

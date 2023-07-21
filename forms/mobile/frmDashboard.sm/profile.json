@@ -58,7 +58,7 @@
     "masterType": 1,
     "name": "kony.ui.Label",
     "parent": "dashcontainer",
-    "pf": "Dashboard",
+    "pf": "frmDashboard",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

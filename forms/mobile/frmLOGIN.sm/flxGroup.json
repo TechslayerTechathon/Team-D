@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "50%"
     },
     "_left_": {
         "type": "string",
@@ -34,21 +34,27 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "FlexGroup0hc5da7dbe2a647"
+        "username",
+        "password",
+        "submitlogin"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "Container",
+    "id": "flxGroup",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "da025bf401044bc28d2d371b1b9d2d2c",
-    "layouttype": 2,
+    "kuid": "i0a46aa3439d48c48226d333ae1e47d7",
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "LOGIN",
-    "pf": "LOGIN",
+    "parent": "flxContainer",
+    "pf": "frmLOGIN",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
