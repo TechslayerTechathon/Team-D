@@ -1,0 +1,31 @@
+{
+    "AS_Button_e8ff49dd06a64471b8e96135dd8e9279": {
+        "id": "AS_Button_e8ff49dd06a64471b8e96135dd8e9279",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a2c93a6d7f91438ab61502a886b28f87"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__gd3573328e9e42abbb13087db95c8b8b",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPayments",
+            "formKUID": "cc68343526ca4b6ea1d20c65af635407",
+            "projectName": "TeamD",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "enableNavigationObj": true,
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "65dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "217dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s6f569953d504332877ec49388c0d428",
+    "_top_": {
+        "type": "string",
+        "value": "517dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "17.91%"
+    },
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "CopyButtonRoundFloat0bfec63e61f6446"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyRoundFloatingButton0d67e0c2342414e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e5a5d629e7cf4eeb80e7ab8404a13096",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "dashcontainer",
+    "pf": "frmDashboard",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

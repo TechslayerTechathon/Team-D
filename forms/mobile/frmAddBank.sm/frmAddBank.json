@@ -18,7 +18,7 @@
     "_pxMenuIndex": [
         0,
         1,
-        0
+        2
     ],
     "_skin_": "saed6f0306bf47f592db9bdbb340b6f1",
     "_title_": null,
@@ -38,23 +38,28 @@
     },
     "canUpdateUI": true,
     "children": [
-        "dashcontainer"
+        "TextField0fa8d4f143a2e4f",
+        "TextField0ca322a56583a40",
+        "TextField0d3c1ad41b81844",
+        "TextField0j9274e8dc6e841",
+        "TextField0hf18eb65cc7044",
+        "TextField0a066133ceebc4a"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmDashboardController"
+            "name": "frmAddBankController"
         }
     },
-    "currentLocale": "none",
+    "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "Pixel6",
+    "device": "iPhone13ProMax",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "frmDashboard",
+    "id": "frmAddBank",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -72,7 +77,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "gb2229882dcd40bf824c3bfda94ca681",
+                "kuid": "ceceb63050894f0295fa11bc448a960d",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -83,7 +88,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "cc8ed6ab43264e73b6457712fc5de2c6",
+                        "kuid": "fa2a70c1de724e6e8f7b2ea12aaede7e",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -100,12 +105,12 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "a2c93a6d7f91438ab61502a886b28f87",
+    "kuid": "bfde0ccfd7af4c3b82fcc88a920381de",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "android",
+    "platform": "iphone",
     "prevDevice": "iPhone13ProMax",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,

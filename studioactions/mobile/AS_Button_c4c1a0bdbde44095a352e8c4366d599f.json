@@ -1,0 +1,35 @@
+{
+    "AS_Button_c4c1a0bdbde44095a352e8c4366d599f": {
+        "id": "AS_Button_c4c1a0bdbde44095a352e8c4366d599f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmRegisterUser",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f13e9c1ff4234d49bec98f445e04220a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__a91b5b0c0e5541588d3bc7757f4f8365",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmBankRegister",
+            "formKUID": "h31669966dd04a239b0a19c827ca807e",
+            "projectName": "TeamD",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

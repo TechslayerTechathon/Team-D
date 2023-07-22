@@ -1,0 +1,29 @@
+{
+    "AS_Button_j053228f4360433bb6471bfa678d5660": {
+        "id": "AS_Button_j053228f4360433bb6471bfa678d5660",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegisterUser",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f13e9c1ff4234d49bec98f445e04220a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__c0d30a3c4c7141aebd5b0647993c132f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAddBank",
+            "formKUID": "bfde0ccfd7af4c3b82fcc88a920381de",
+            "projectName": "TeamD",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

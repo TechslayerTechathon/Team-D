@@ -15,11 +15,6 @@
         0
     ],
     "_percent_": true,
-    "_pxMenuIndex": [
-        0,
-        1,
-        0
-    ],
     "_skin_": "saed6f0306bf47f592db9bdbb340b6f1",
     "_title_": null,
     "addWidgetsdone": false,
@@ -38,23 +33,23 @@
     },
     "canUpdateUI": true,
     "children": [
-        "dashcontainer"
+        "FlexContainer0dc281e5b69d64c"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmDashboardController"
+            "name": "frmRegisterUserController"
         }
     },
-    "currentLocale": "none",
+    "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "Pixel6",
+    "device": "iPhone13ProMax",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "frmDashboard",
+    "id": "frmRegisterUser",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -72,7 +67,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "gb2229882dcd40bf824c3bfda94ca681",
+                "kuid": "ec213bf73023455ea17cec21d650663c",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -83,7 +78,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "cc8ed6ab43264e73b6457712fc5de2c6",
+                        "kuid": "g6985da942064b3faebd3dc8480d9c5f",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -100,12 +95,12 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "a2c93a6d7f91438ab61502a886b28f87",
+    "kuid": "f13e9c1ff4234d49bec98f445e04220a",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "android",
+    "platform": "iphone",
     "prevDevice": "iPhone13ProMax",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,

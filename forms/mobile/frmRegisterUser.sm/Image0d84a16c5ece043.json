@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s21da8d459e94aacb6b5726ed061cafc",
+    "_src_": "persondetailpic.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "Image0d84a16c5ece043",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "h05cb4be70e0454396e5c8109bb5e96a",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer0c11ac7fdd0614f",
+    "pf": "frmRegisterUser",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

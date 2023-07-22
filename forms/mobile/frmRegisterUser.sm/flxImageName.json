@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "165dp"
     },
     "_left_": {
         "type": "string",
@@ -22,7 +22,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "se0e0ec716a24471a16015b40d40e63e",
+    "_skin_": "s99ec26c01124a1c9e905ed63aa9e29d",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -35,31 +35,21 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "FlexContainer0e7e023f47b1d4a",
-        "RoundFloatingButton",
-        "CopyRoundFloatingButton0b40dea7818ea44",
-        "CopyRoundFloatingButton0aee9e1cb291747",
-        "CopyRoundFloatingButton0g2666b6f122642",
-        "CopyRoundFloatingButton0cfaba878329f41",
-        "CopyRoundFloatingButton0c313dbab769e41",
-        "CopyRoundFloatingButton0d67e0c2342414e",
-        "CopyRoundFloatingButton0i4488dfc2a8c4c"
+        "lblName",
+        "FlexContainer0c11ac7fdd0614f"
     ],
-    "clipbounds": false,
+    "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "dashcontainer",
+    "id": "flxImageName",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ea32c6d32a334b56802fa646f160e2a8",
+    "kuid": "j7bef572ec91442c8ee0e2bd85496365",
     "layouttype": 2,
+    "masterType": 1,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmDashboard",
-    "pf": "frmDashboard",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "parent": "flxPersonDetails",
+    "pf": "frmRegisterUser",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
