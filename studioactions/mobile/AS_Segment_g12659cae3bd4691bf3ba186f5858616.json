@@ -1,0 +1,29 @@
+{
+    "AS_Segment_g12659cae3bd4691bf3ba186f5858616": {
+        "id": "AS_Segment_g12659cae3bd4691bf3ba186f5858616",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onRowClick_d2adde31aa0b4c569d1c77fcf42bf510",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmRejectAccept",
+            "formKUID": "i99b9cb86a7d4758a07408fabe6944aa",
+            "projectName": "TeamD",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}
