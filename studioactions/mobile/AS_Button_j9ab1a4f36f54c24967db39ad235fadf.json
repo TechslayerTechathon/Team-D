@@ -1,0 +1,21 @@
+{
+    "AS_Button_j9ab1a4f36f54c24967db39ad235fadf": {
+        "id": "AS_Button_j9ab1a4f36f54c24967db39ad235fadf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SEND_EMAIL_d3204c6695a741348b3fa32b2d975e91",
+            "type": "SEND_EMAIL",
+            "torecipients": ["titus.khalomonaheng@gmail.com"],
+            "ccrecipients": null,
+            "bccrecipients": null,
+            "messagebody": "Hi,\n\nA payment has been generated from a buyer, please log into the system to confirm receipt of the request.\n\nThank you\n\nRegards\n\nTeam D",
+            "subject": "Payments",
+            "ismessagebodyhtml": false
+        }]
+    }
+}

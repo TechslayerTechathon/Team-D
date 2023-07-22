@@ -32,7 +32,9 @@
         }
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "flxContainerPayments"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {

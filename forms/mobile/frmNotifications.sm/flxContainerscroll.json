@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "92.74%"
     },
     "_left_": {
         "type": "string",
-        "value": "7dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -25,11 +25,11 @@
     "_skin_": "s6490e0b32584e8d8d5a9ce4aa3836d7",
     "_top_": {
         "type": "string",
-        "value": "7dp"
+        "value": "-19dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "100.47%"
     },
     "allboxes": [],
     "allowhorizontalbounce": false,
@@ -37,10 +37,9 @@
     "bounces": true,
     "canUpdateUI": true,
     "children": [
-        "BellDark",
-        "CommentingDark",
-        "CommentingDark0ja653fdf7ec24d",
         "CopyCommentingDark0ha4664b4d7364f",
+        "CommentingDark0ja653fdf7ec24d",
+        "CommentingDark",
         "segNotifications"
     ],
     "clipbounds": false,
@@ -54,7 +53,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "d3dc44f2c21a43d185b2b6797214de4d",
-    "layouttype": 2,
+    "layouttype": 3,
     "name": "kony.ui.FlexScrollContainer",
     "pagingenabled": false,
     "parent": "frmNotifications",

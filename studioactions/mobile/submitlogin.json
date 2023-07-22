@@ -8,7 +8,7 @@
             "name": "eventobject"
         }],
         "contextObj": {
-            "name": "LOGIN",
+            "name": "frmLOGIN",
             "type": "forms",
             "platform": null,
             "KUID": "bfa5a790b2bb48d68590f5f405d23b66"
@@ -17,7 +17,7 @@
         "actions": [{
             "id": "NAVIGATE_TO_FORM__b25b648a106f4a2b808c07da64a9249f",
             "type": "NAVIGATE_TO_FORM",
-            "formId": "Dashboard",
+            "formId": "frmDashboard",
             "formKUID": "a2c93a6d7f91438ab61502a886b28f87",
             "projectName": "TeamD",
             "mappings": {},

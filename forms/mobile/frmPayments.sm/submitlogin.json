@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "Default": {
+        "displayText": true
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s84fcc356d1643c9803761c4b01276ba",
+    "_text_": "Submit Payment",
+    "_top_": {
+        "type": "string",
+        "value": "633dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.08%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s53e263246ec4447a278fb07dd76fdd9",
+    "id": "submitlogin",
+    "ide_onClick": "AS_Button_j9ab1a4f36f54c24967db39ad235fadf",
+    "info": null,
+    "iphone": {},
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "df97d25740214480b0aefb365bf84221",
+    "name": "kony.ui.Button",
+    "parent": "flxContainerPayments",
+    "pf": "frmPayments",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

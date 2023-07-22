@@ -2,34 +2,34 @@
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "363dp"
+        "value": "150dp"
     },
     "_margin_": [
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1
     ],
     "_padding_": [
-        0,
+        1,
         0,
         0,
         0
     ],
-    "_skin_": "sdb77d0fa0d54e4fa0a5bec2f160bcd3",
-    "_text_": "",
+    "_skin_": "s875ca90ec114a55af2a16d3dc9c8873",
+    "_text_": "FRDD",
     "_top_": {
         "type": "string",
-        "value": "22dp"
+        "value": "0dp"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "59.98%"
     },
     "_wrapping_": 2,
     "android": {
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "BellDark",
+    "id": "lblTickerValue",
     "info": null,
     "ipad": {
         "psp": {
@@ -54,11 +54,11 @@
         }
     },
     "isvisible": true,
-    "kuid": "daa63f6e744a4e26beb504e11ad11588",
-    "masterType": 1,
+    "kuid": "a8eb34b144624da7a4ab86826f79126f",
     "name": "kony.ui.Label",
-    "parent": "flxContainerscroll",
-    "pf": "frmNotifications",
+    "paddinginpixel": false,
+    "parent": "flxTicker",
+    "pf": "frmAccept",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

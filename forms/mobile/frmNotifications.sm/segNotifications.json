@@ -65,12 +65,12 @@
     ],
     "_height_": {
         "type": "string",
-        "value": "240dp"
+        "value": "797dp"
     },
     "_indicator_": "none",
     "_left_": {
         "type": "string",
-        "value": "-7dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -87,7 +87,7 @@
     ],
     "_top_": {
         "type": "string",
-        "value": "130dp"
+        "value": "80dp"
     },
     "_width_": {
         "type": "string",
@@ -99,11 +99,13 @@
     "counter": "09",
     "focusedindex": null,
     "focuseditem": null,
+    "generatedtemplate": null,
     "groupcells": false,
     "hasSections": false,
     "id": "segNotifications",
-    "ide_onRowClick": "AS_Segment_a2823a32151b41f19bbb93fa8c5be5fa",
+    "ide_onRowClick": "AS_Segment_e85c8739a5cd402cae8a8c0228430afa",
     "info": null,
+    "init": "AS_Segment_d0fa2045956d485cbb66780c70d63ce4",
     "ipad": {
         "psp": {
             "indicator": "rowselect"
@@ -137,6 +139,7 @@
     "rowtemplate": "Flex0dd995b83544147",
     "screenlevelwidget": false,
     "seccounter": 0,
+    "sectionHeaderTemplateId": null,
     "sectionheaderskin": "s2a0a134a1424c00ab87182d71ea72c0",
     "selectedRows": null,
     "selectedState": false,

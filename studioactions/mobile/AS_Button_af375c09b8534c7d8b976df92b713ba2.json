@@ -1,0 +1,23 @@
+{
+    "AS_Button_af375c09b8534c7d8b976df92b713ba2": {
+        "id": "AS_Button_af375c09b8534c7d8b976df92b713ba2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccept",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ece307ef1bb744daa04b3d8c5e55bc8d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SEND_SMS_h3bf797181974a6597b9642e327f749b",
+            "type": "SEND_SMS",
+            "phoneNumber": "0606281857",
+            "message": "jgfhgfsjvdjhgvszdkxjhg,dsjc"
+        }]
+    }
+}
