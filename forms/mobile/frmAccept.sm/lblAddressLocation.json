@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s875ca90ec114a55af2a16d3dc9c8873",
+    "_text_": "223 E. Concord Street, Orlando,FL 32801",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "59.98%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblAddressLocation",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "b90661ecf6254311b35b3f3bc56e6c6b",
+    "maxnumberoflines": 2,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flxAddress",
+    "pf": "frmAccept",
+    "textstyle": {},
+    "texttruncateposition": 3,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

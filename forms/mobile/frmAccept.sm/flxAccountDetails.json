@@ -1,0 +1,89 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2e001072f284bf0adecd98ebbe786e4",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "flxAccountName",
+        "flxAccountID",
+        "flxIndustry",
+        "flxWebsite",
+        "flxTelephone",
+        "flxEmail",
+        "flxAddress",
+        "flxOwnership",
+        "flxRevenue",
+        "flxEmployees",
+        "flxTicker",
+        "flxRating",
+        "flxSeperator",
+        "flxSeperator1",
+        "flxSeperator2",
+        "flxSeperator3",
+        "flxSeperator4",
+        "flxSeperator5",
+        "flxSeperator6",
+        "flxSeperator7",
+        "flxSeperator8",
+        "flxSeperator9",
+        "flxSeperator10",
+        "flxSeperator11"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "flxAccountDetails",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cbf939b84ef94fe990874fd28ca8273f",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "FlexContainer0cf72df27c36842",
+    "pf": "frmAccept",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 2
+}

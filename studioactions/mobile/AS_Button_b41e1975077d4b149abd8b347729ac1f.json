@@ -1,0 +1,29 @@
+{
+    "AS_Button_b41e1975077d4b149abd8b347729ac1f": {
+        "id": "AS_Button_b41e1975077d4b149abd8b347729ac1f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRejectAccept",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i99b9cb86a7d4758a07408fabe6944aa"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__a6026b9d83ee4d859522db582d39a2d8",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmReject",
+            "formKUID": "e47fb4ee6d6e45e9af15e930b562e995",
+            "projectName": "TeamD",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

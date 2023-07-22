@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "97.04%"
     },
     "_left_": {
         "type": "string",
-        "value": "3dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -25,7 +25,7 @@
     "_skin_": "se0e0ec716a24471a16015b40d40e63e",
     "_top_": {
         "type": "string",
-        "value": "27dp"
+        "value": "3dp"
     },
     "_width_": {
         "type": "string",
@@ -35,24 +35,20 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "richMakePayments",
-        "txtAmtReq",
-        "txtCvv",
-        "txtEmail",
-        "submitlogin"
+        "flxAccountDetails"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxContainerPayments",
+    "id": "FlexContainer0cf72df27c36842",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ie51638f72744ab0b8726ab684e75798",
+    "kuid": "gf8f950782284efb803ce900a2acd87e",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmPayments",
-    "pf": "frmPayments",
+    "parent": "frmAccept",
+    "pf": "frmAccept",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

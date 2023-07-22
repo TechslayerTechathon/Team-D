@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "60dp"
     },
     "_left_": {
         "type": "string",
-        "value": "3dp"
+        "value": "15dp"
     },
     "_margin_": [
         0,
@@ -22,40 +22,38 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "se0e0ec716a24471a16015b40d40e63e",
+    "_skin_": "sa4200482ba34a7487062d03f1bb55d8",
     "_top_": {
         "type": "string",
-        "value": "27dp"
+        "value": "707dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "93.14%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
+    "android": {
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        }
+    },
     "canUpdateUI": true,
     "children": [
-        "richMakePayments",
-        "txtAmtReq",
-        "txtCvv",
-        "txtEmail",
-        "submitlogin"
+        "SquaredBtn"
     ],
-    "clipbounds": false,
+    "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxContainerPayments",
+    "id": "SquaredBorderedButton",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ie51638f72744ab0b8726ab684e75798",
+    "kuid": "a4a728fd6099492e98e02e03f5cba1ea",
     "layouttype": 2,
+    "masterType": 1,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmPayments",
-    "pf": "frmPayments",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "parent": "frmAccept",
+    "pf": "frmAccept",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",

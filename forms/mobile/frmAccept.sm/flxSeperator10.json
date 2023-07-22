@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "1px"
     },
     "_left_": {
         "type": "string",
-        "value": "3dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -22,10 +22,10 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "se0e0ec716a24471a16015b40d40e63e",
+    "_skin_": "s589c1371dba4a529c38b76efdc8490a",
     "_top_": {
         "type": "string",
-        "value": "27dp"
+        "value": "659dp"
     },
     "_width_": {
         "type": "string",
@@ -34,28 +34,19 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "richMakePayments",
-        "txtAmtReq",
-        "txtCvv",
-        "txtEmail",
-        "submitlogin"
-    ],
-    "clipbounds": false,
+    "children": [],
+    "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxContainerPayments",
+    "id": "flxSeperator10",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ie51638f72744ab0b8726ab684e75798",
+    "kuid": "b16ad69fbbb6494da59a712fde325698",
     "layouttype": 2,
+    "masterType": 1,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmPayments",
-    "pf": "frmPayments",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "parent": "flxAccountDetails",
+    "pf": "frmAccept",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",

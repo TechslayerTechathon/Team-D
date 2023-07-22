@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_skin_": "se75548194a049f2bb6ec4a53fba757d",
+    "_text_": "Send Proof by SMS",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s524014636b84d89820ff1c70884f811",
+    "id": "SquaredBtn",
+    "ide_onClick": "AS_Button_af375c09b8534c7d8b976df92b713ba2",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e77ce892eaad455ab6020358304e02f7",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "SquaredBorderedButton",
+    "pf": "frmAccept",
+    "wType": "Button",
+    "zindex": 1
+}

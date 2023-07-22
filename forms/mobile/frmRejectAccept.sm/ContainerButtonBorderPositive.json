@@ -1,12 +1,8 @@
 {
     "DNDConfig": null,
-    "_height_": {
+    "_bottom_": {
         "type": "string",
-        "value": "100%"
-    },
-    "_left_": {
-        "type": "string",
-        "value": "3dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -22,40 +18,37 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "se0e0ec716a24471a16015b40d40e63e",
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sca06252aedd4dd285020bec6b7ab318",
     "_top_": {
         "type": "string",
-        "value": "27dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "50%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "richMakePayments",
-        "txtAmtReq",
-        "txtCvv",
-        "txtEmail",
-        "submitlogin"
+        "ButtonBorderPositive"
     ],
-    "clipbounds": false,
+    "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxContainerPayments",
+    "id": "ContainerButtonBorderPositive",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ie51638f72744ab0b8726ab684e75798",
+    "kuid": "add42c9bac60429d9ae7019d5a6db00e",
     "layouttype": 2,
+    "masterType": 1,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmPayments",
-    "pf": "frmPayments",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "parent": "BorderButtonRoundSigned",
+    "pf": "frmRejectAccept",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
