@@ -6,7 +6,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "3dp"
     },
     "_margin_": [
         0,
@@ -25,7 +25,7 @@
     "_skin_": "se0e0ec716a24471a16015b40d40e63e",
     "_top_": {
         "type": "string",
-        "value": "-10dp"
+        "value": "-13dp"
     },
     "_width_": {
         "type": "string",
@@ -35,21 +35,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "TextField0a21eb0920bfa4f",
-        "TextField0ed54b75e28de4a",
-        "FlexContainer0a70368544a2c4a",
-        "FlexContainer0b52fa120de0247",
-        "CopyButtonRoundFloat0bbfe412baa4e43",
-        "CopyButtonRoundFloat0hd555208902f40",
-        "CopyButtonRoundFloat0ec85fe6226724a",
-        "CopyButtonRoundFloat0d78c5ceb77554a",
-        "CopyButtonRoundFloat0f863828d8ac248",
-        "CopyButtonRoundFloat0a502de421a074e",
-        "CopyButtonRoundFloat0f2c8ecfb70c449",
-        "CopyButtonRoundFloat0b80b357281d04f",
-        "CopyButtonRoundFloat0d90d6ff544724f",
-        "CopyButtonRoundFloat0g4e5e38805534f",
-        "CopyButtonRoundFloat0f931ab1bf45948"
+        "profile"
     ],
     "clipbounds": false,
     "containerweight": 100,
