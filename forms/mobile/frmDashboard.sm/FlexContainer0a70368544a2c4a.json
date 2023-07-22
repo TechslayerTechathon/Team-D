@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "220dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "13dp"
     },
     "_margin_": [
         0,
@@ -22,46 +22,36 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "se0e0ec716a24471a16015b40d40e63e",
+    "_skin_": "sd8b3fc7c36440f88b8a52df99e978d4",
     "_top_": {
         "type": "string",
-        "value": "-10dp"
+        "value": "147dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "91.12%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "children": [
-        "TextField0a21eb0920bfa4f",
-        "TextField0ed54b75e28de4a",
-        "FlexContainer0a70368544a2c4a",
-        "FlexContainer0b52fa120de0247",
-        "CopyButtonRoundFloat0bbfe412baa4e43",
-        "CopyButtonRoundFloat0hd555208902f40",
-        "CopyButtonRoundFloat0ec85fe6226724a",
-        "CopyButtonRoundFloat0d78c5ceb77554a",
-        "CopyButtonRoundFloat0f863828d8ac248",
-        "CopyButtonRoundFloat0a502de421a074e",
-        "CopyButtonRoundFloat0f2c8ecfb70c449",
-        "CopyButtonRoundFloat0b80b357281d04f",
-        "CopyButtonRoundFloat0d90d6ff544724f",
-        "CopyButtonRoundFloat0g4e5e38805534f",
-        "CopyButtonRoundFloat0f931ab1bf45948"
+        "CopyButtonRoundFloat0feba02d34e8e41"
     ],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "dashcontainer",
+    "id": "FlexContainer0a70368544a2c4a",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ea32c6d32a334b56802fa646f160e2a8",
+    "kuid": "f5d596988b50473ab395a7e7eaa8a883",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmDashboard",
+    "parent": "dashcontainer",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

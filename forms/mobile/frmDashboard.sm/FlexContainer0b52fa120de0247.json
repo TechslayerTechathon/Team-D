@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "87dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "7dp"
     },
     "_margin_": [
         0,
@@ -22,46 +22,34 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "se0e0ec716a24471a16015b40d40e63e",
+    "_skin_": "s8f4e6a48c16405fb45826e0e4ad9833",
     "_top_": {
         "type": "string",
-        "value": "-10dp"
+        "value": "377dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "91.12%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "TextField0a21eb0920bfa4f",
-        "TextField0ed54b75e28de4a",
-        "FlexContainer0a70368544a2c4a",
-        "FlexContainer0b52fa120de0247",
-        "CopyButtonRoundFloat0bbfe412baa4e43",
-        "CopyButtonRoundFloat0hd555208902f40",
-        "CopyButtonRoundFloat0ec85fe6226724a",
-        "CopyButtonRoundFloat0d78c5ceb77554a",
-        "CopyButtonRoundFloat0f863828d8ac248",
-        "CopyButtonRoundFloat0a502de421a074e",
-        "CopyButtonRoundFloat0f2c8ecfb70c449",
-        "CopyButtonRoundFloat0b80b357281d04f",
-        "CopyButtonRoundFloat0d90d6ff544724f",
-        "CopyButtonRoundFloat0g4e5e38805534f",
-        "CopyButtonRoundFloat0f931ab1bf45948"
-    ],
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [],
     "clipbounds": false,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "dashcontainer",
+    "id": "FlexContainer0b52fa120de0247",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ea32c6d32a334b56802fa646f160e2a8",
+    "kuid": "a482ae7d76c847138910edf65e41c060",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmDashboard",
+    "parent": "dashcontainer",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
